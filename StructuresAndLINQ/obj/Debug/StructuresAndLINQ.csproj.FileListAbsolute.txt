@@ -1,0 +1,6 @@
+C:\Users\Osiris\Dropbox\BSA\03-StructuresAndLINQ\StructuresAndLINQ\StructuresAndLINQ\bin\Debug\StructuresAndLINQ.exe.config
+C:\Users\Osiris\Dropbox\BSA\03-StructuresAndLINQ\StructuresAndLINQ\StructuresAndLINQ\bin\Debug\StructuresAndLINQ.exe
+C:\Users\Osiris\Dropbox\BSA\03-StructuresAndLINQ\StructuresAndLINQ\StructuresAndLINQ\bin\Debug\StructuresAndLINQ.pdb
+C:\Users\Osiris\Dropbox\BSA\03-StructuresAndLINQ\StructuresAndLINQ\StructuresAndLINQ\obj\Debug\StructuresAndLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Osiris\Dropbox\BSA\03-StructuresAndLINQ\StructuresAndLINQ\StructuresAndLINQ\obj\Debug\StructuresAndLINQ.exe
+C:\Users\Osiris\Dropbox\BSA\03-StructuresAndLINQ\StructuresAndLINQ\StructuresAndLINQ\obj\Debug\StructuresAndLINQ.pdb
